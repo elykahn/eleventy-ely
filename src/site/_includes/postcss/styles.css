@@ -108,7 +108,7 @@ a:focus {
 }
 
 .nav {
-  padding-top: 3em;
+  padding-top: 1em;
 
   li {
     display: inline;
@@ -121,11 +121,11 @@ a:focus {
     border-top-width: 1px;
     border-top-color: mix($text-color, $accent-color, 40%);
     border-bottom-style: none;
-    padding-top: 0.8em;
-    padding-bottom: 2em;
+    padding-top: 0.4em;
+    padding-bottom: 1em;
     margin-left: 0;
-    margin-right: 0.7em;
-    width: 9em;
+    margin-right: 0.5em;
+    width: 5em;
     text-align: left;
     color: mix($text-color, $accent-color, 80%);
     text-decoration: none;
