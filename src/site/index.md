@@ -1,10 +1,10 @@
 ---
-title: eleventy.ely
+title: e11ty
 subtitle: a multipurpose 11ty site for ely to log ongoing projects and processes
 layout: layouts/base.njk
 ---
 
-## Posts
+## blog
 
 <ul class="listing">
 {%- for page in collections.post -%}
@@ -15,7 +15,7 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
-## Links
+## links
 
 <ul class="listing">
 {%- for item in hawksworx.entries.slice(0,5) -%}
