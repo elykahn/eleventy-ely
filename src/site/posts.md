@@ -1,6 +1,6 @@
 ---
-title: 11t.ely posts
-subtitle: a multipurpose 11ty site for ely to log ongoing projects and processes
+title: blog
+subtitle: blog and log
 layout: layouts/base.njk
 ---
 
