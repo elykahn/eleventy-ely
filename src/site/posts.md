@@ -2,9 +2,7 @@
 title: blog
 subtitle: blog and log
 layout: layouts/base.njk
----
-
-## Posts
+--- 
 
 <ul class="listing">
 {%- for page in collections.post -%}
