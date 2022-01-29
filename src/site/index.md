@@ -25,6 +25,9 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57d7936f-985c-4196-b61a-4dcde75b4666/deploy-status)](https://app.netlify.com/sites/eleventy-57-blue/deploys)
+
+
 
 
 
