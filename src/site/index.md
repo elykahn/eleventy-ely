@@ -1,6 +1,6 @@
 ---
 title: e11ty
-subtitle: a multipurpose 11ty site for ely to log ongoing projects and processes
+subtitle: ely + 11ty
 layout: layouts/base.njk
 ---
 
