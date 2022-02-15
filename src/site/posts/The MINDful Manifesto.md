@@ -1,5 +1,9 @@
-The MINDful Manifesto
-v 0.1.5
+---
+title: MINDful Manifesto
+date: 2016-02-20
+---
+
+### MINDful Manifesto (v 0.1.5)
 
 
 1. Transcends the Medium
