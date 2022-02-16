@@ -1,5 +1,5 @@
 ---
-title: Tapping Log 001
+title: EFT Tapping
 date: 2021-12-27
 ---
 
