@@ -1,10 +1,16 @@
 
+---
+title: Constant Change
+date: 2016-04-05
+---
+
+### Good Life Project "Living Creed"
 ### THE BASIS OF MY MINDFUL MANIFESTO  
 > *The only universal constant is that of change* [^1]   
 —  [Heraclitus](http://plato.stanford.edu/entries/heraclitus/)
 
 #### The Status Quo  (is changing)
-In the modern Modus Operandi, employees are expected to inherit the beliefs of their superiors, to absorb them and act accordingly. This has become a central basis for a society that is fundamentally hierarchical. In recent years, with the rise of web culture and alternative corporate structures like [Agile](http://agilemanifesto.org/principles.html), a different mindset has leveled the playing field, such that forward-thinking organizations value the beliefs of the individuals that comprise them.
+In the modern Modus Operandi, employees are expected to inherit the beliefs of their superiors, to absorb them and act accordingly. This has become a central basis for a society that is fundamentally hierarchical. In recent years, with the rise of web culture and alternative corporate structures like [Agile](http://agilemanifesto.org/principles.html), an alternative, disruptive and innovative work  has leveled the playing field, such that forward-thinking organizations value the beliefs of the individuals that comprise them.
 
 Still there is hesitation amongst applicants and employees to reveal their core beliefs for fear of rejection and humiliation. This leads to internalized resentment and often leaves the most innovative and radical ideas out of the realm of deliberation, in turn reducing the voices of the conversation to those individuals that have no doubt in their opinion. History has shown that these doubtless opinions are frequently based in pure abstraction, faith and self-interest, but that they are voiced with such confidence that an audience seeking answers is wont to accept those opinions as fact.
 
